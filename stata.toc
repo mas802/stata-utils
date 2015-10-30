@@ -1,0 +1,8 @@
+********************************************** stata.toc
+v 3
+d Random utils
+p mivars [investigate which vars cause low number in regressions]
+p impuls [impuls saturation specification search]
+p savesig [save files with fingerprint in name]
+p savedate [save files with current date in name]
+p dodrive [run do files collaboratively from google drive]

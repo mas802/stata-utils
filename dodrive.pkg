@@ -1,0 +1,6 @@
+********************************************** mivars.pkg
+v 3
+d mivars
+d Run do files collaboratively from google drive
+d Distribution-Date: 01 November 2015
+f dodrive.ado
