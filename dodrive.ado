@@ -5,7 +5,7 @@ dodrive.ado
 A small utility to run google docs files as stata do files 
 for easy collaboration on data analysis.
 
-(c) 2013 Markus Schaffner
+(c) 2013-2015 Markus Schaffner
 
 */
 cap program drop dodrive
